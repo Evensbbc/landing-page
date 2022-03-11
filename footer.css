@@ -1,0 +1,12 @@
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 24px 0;
+}
+
+.box{
+	width: 25%;
+	display:grid;
+
+}
