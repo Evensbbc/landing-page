@@ -1,0 +1,25 @@
+.footer {
+  background-color: #6A310A;
+  color: white;
+  text-align: center;
+  padding: 24px 0;
+  margin-top: 40px;
+}
+
+.box{
+	width: 25%;
+	display:grid;
+
+}
+
+.fa-brands {
+color: white;
+font-size: 50px;
+
+}
+
+.fa-brands:hover {
+color: black;
+font-size: 50px;
+}
+
